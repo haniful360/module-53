@@ -1,0 +1,25 @@
+.cart {
+    position: sticky;
+    top: 100px;
+    padding: 25px;
+
+}
+
+.order-summery {
+    text-align: center;
+    font-family: 'Poppins', sans-serif;
+    font-size: 25px;
+}
+
+.cart-info p {
+    font-family: 'Poppins', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 17px;
+    line-height: 20px;
+    letter-spacing: 0.005em;
+}
+/* .cart-info img{
+    width: 50px;
+    height: 50px;
+} */
