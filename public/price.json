@@ -1,0 +1,41 @@
+[
+    {
+      "id": 1,
+      "name": "Basic",
+      "price": 25.99,
+      "description": "Access to gym equipment during regular hours",
+      "features": [
+        "Unlimited sauna and steam room access",
+        "Free towel service",
+        "Free personal training session",
+        "Unlimited sauna and steam room access",
+        "Free towel service",
+        "Free personal training session"
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Premium",
+      "price": 45.99,
+      "description": "Access to gym equipment during extended hours",
+      "features": [
+        "Unlimited sauna and steam room access",
+        "Free towel service",
+        "Unlimited sauna and steam room access",
+        "Free towel service",
+        "Free personal training session"
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Platinum",
+      "price": 69.99,
+      "description": "24/7 access to gym equipment",
+      "features": [
+        "Unlimited sauna and steam room access",
+        "Free towel service",
+        "Free personal training session"
+      ]
+    }
+  ]
+  
